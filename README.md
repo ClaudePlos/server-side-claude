@@ -39,7 +39,12 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 
 ## Claude
-
+<pre>
 Wejdź do CMD i yarn dev 
 http://localhost:3000
 a coding w VS
+
+Docker:
+docker build -t server-side-claude .
+docker run -d -p 3000:3000 server-side-claude
+</pre>
