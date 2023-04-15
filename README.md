@@ -46,5 +46,5 @@ a coding w VS
 
 Docker:
 docker build -t server-side-claude .
-docker run -d -p 3000:3000 server-side-claude
+docker run --name ssc -d -p 3000:3000 server-side-claude
 </pre>
