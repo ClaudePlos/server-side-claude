@@ -5,6 +5,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, run the development server:
 
 ```bash
+# first after clone 
+npm install 
+
+# to run: 
 npm run dev
 # or
 yarn dev
