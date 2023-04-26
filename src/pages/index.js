@@ -57,6 +57,8 @@ function HeroElement({id, name, url}) {
 export async function getStaticProps() {
 
   const { data, status } = await axios.get('/search/jess')
+  //console.log('TEST')
+  //console.log(data)
 
   if (status !== 200) {
     return {
