@@ -44,7 +44,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Claude
 <pre>
-Wejdź do CMD i yarn dev 
+Wejdź do CMD i yarn dev or npm run dev
 http://localhost:3000
 a coding w VS
 
